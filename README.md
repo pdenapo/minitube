@@ -1,3 +1,5 @@
+This is a forked repository. It adds the debian files for making easy to build de debian package.
+
 # Minitube
 Minitube is a YouTube desktop application. It is written in C++ using the Qt framework. Contributing is welcome, especially in the Linux desktop integration area.
 
