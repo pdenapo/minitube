@@ -1,0 +1,5 @@
+usr/bin
+usr/share/appdata/* usr/share/metainfo
+usr/share/applications
+usr/share/icons
+usr/share/minitube
